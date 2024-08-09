@@ -1,0 +1,1 @@
+# StrongTraps-Adapter
