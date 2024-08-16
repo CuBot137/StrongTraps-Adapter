@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/StrongTraps-Adapter.iml" filepath="$PROJECT_DIR$/.idea/StrongTraps-Adapter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StrongTrapsAdapter/StrongTrapsAdapter/StrongTrapsAdapter.iml" filepath="$PROJECT_DIR$/StrongTrapsAdapter/StrongTrapsAdapter/StrongTrapsAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrongTrapsAdapter/StrongTrapsAdapter.iml" filepath="$PROJECT_DIR$/StrongTrapsAdapter/StrongTrapsAdapter.iml" />
     </modules>
   </component>
 </project>
